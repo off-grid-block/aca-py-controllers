@@ -10,8 +10,6 @@ Demo controllers on top of the aca-py agent for the purposes of the DEON project
 
 Hyperledger Aries Cloud Agent Python (ACA-Py) is a foundation for building self-sovereign identity (SSI) / decentralized identity services running in non-mobile environments using DIDcomm messaging, the did:peer DID method, and verifiable credentials. With ACA-Py, SSI developers can focus on building services using familiar web development technologies instead of trying to learn the nuts and bolts of low-level SDKs.
 
-As we create ACA-Py, we're also building resources so that developers with a wide-range of backgrounds can get productive with ACA-Py in a hurry. Checkout the [resources](#resources) section below and jump in.
-
 The "cloud" in Aries Cloud Agent - Python does **NOT** mean that ACA-Py cannot be used as an edge agent. ACA-Py is suitable for use in any non-mobile agent scenario, including as an enterprise edge agent for
 issuing, verifying and holding verifiable credentials.
 
